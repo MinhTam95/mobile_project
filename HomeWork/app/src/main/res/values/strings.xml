@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CreateTable!</string>
+    <string name="app_name">Bank App</string>
+
+    <string-array name="currency">
+        <item>AUST.DOLLAR</item>
+        <item>CANADIAN DOLLAR</item>
+        <item>SWISS FRANCE</item>
+        <item>DANISH KRONE</item>
+        <item>EURO</item>
+        <item>BRITISH POUND</item>
+        <item>HONGKONG DOLLAR</item>
+        <item>INDIAN RUPEE</item>
+        <item>JAPANESE YEN</item>
+        <item>SOUTH KOREAN WON</item>
+        <item>KUWAITI DINAR</item>
+        <item>MALAYSIAN RINGGIT</item>
+        <item>NORWEGIAN KRONER</item>
+        <item>RUSSIAN RUBLE</item>
+        <item>SAUDI RIAL</item>
+        <item>SWEDISH KRONA</item>
+        <item>SINGAPORE DOLLAR</item>
+        <item>THAI BAHT</item>
+        <item>US DOLLAR</item>
+        <item>VND</item>
+    </string-array>
+
+</resources>
